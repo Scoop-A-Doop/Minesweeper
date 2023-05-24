@@ -1,0 +1,16 @@
+C:\Users\tshou\source\repos\SShouibMinesweeper\SShouibMinesweeper\bin\Debug\netcoreapp3.1\SShouibMinesweeper.exe
+C:\Users\tshou\source\repos\SShouibMinesweeper\SShouibMinesweeper\bin\Debug\netcoreapp3.1\SShouibMinesweeper.deps.json
+C:\Users\tshou\source\repos\SShouibMinesweeper\SShouibMinesweeper\bin\Debug\netcoreapp3.1\SShouibMinesweeper.runtimeconfig.json
+C:\Users\tshou\source\repos\SShouibMinesweeper\SShouibMinesweeper\bin\Debug\netcoreapp3.1\SShouibMinesweeper.runtimeconfig.dev.json
+C:\Users\tshou\source\repos\SShouibMinesweeper\SShouibMinesweeper\bin\Debug\netcoreapp3.1\SShouibMinesweeper.dll
+C:\Users\tshou\source\repos\SShouibMinesweeper\SShouibMinesweeper\bin\Debug\netcoreapp3.1\SShouibMinesweeper.pdb
+C:\Users\tshou\source\repos\SShouibMinesweeper\SShouibMinesweeper\obj\Debug\netcoreapp3.1\SShouibMinesweeper.csprojAssemblyReference.cache
+C:\Users\tshou\source\repos\SShouibMinesweeper\SShouibMinesweeper\obj\Debug\netcoreapp3.1\SShouibMinesweeper.Cell.resources
+C:\Users\tshou\source\repos\SShouibMinesweeper\SShouibMinesweeper\obj\Debug\netcoreapp3.1\SShouibMinesweeper.MinesweeperForm.resources
+C:\Users\tshou\source\repos\SShouibMinesweeper\SShouibMinesweeper\obj\Debug\netcoreapp3.1\SShouibMinesweeper.csproj.GenerateResource.cache
+C:\Users\tshou\source\repos\SShouibMinesweeper\SShouibMinesweeper\obj\Debug\netcoreapp3.1\SShouibMinesweeper.AssemblyInfoInputs.cache
+C:\Users\tshou\source\repos\SShouibMinesweeper\SShouibMinesweeper\obj\Debug\netcoreapp3.1\SShouibMinesweeper.AssemblyInfo.cs
+C:\Users\tshou\source\repos\SShouibMinesweeper\SShouibMinesweeper\obj\Debug\netcoreapp3.1\SShouibMinesweeper.csproj.CoreCompileInputs.cache
+C:\Users\tshou\source\repos\SShouibMinesweeper\SShouibMinesweeper\obj\Debug\netcoreapp3.1\SShouibMinesweeper.dll
+C:\Users\tshou\source\repos\SShouibMinesweeper\SShouibMinesweeper\obj\Debug\netcoreapp3.1\SShouibMinesweeper.pdb
+C:\Users\tshou\source\repos\SShouibMinesweeper\SShouibMinesweeper\obj\Debug\netcoreapp3.1\SShouibMinesweeper.genruntimeconfig.cache
